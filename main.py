@@ -1,1 +1,1 @@
-print (hello narinder sir)
+print ('hello narinder sir')
